@@ -1,6 +1,4 @@
-# Expert Lighting
-
-# Comparative Analysis of Expert and LLM-Generated Presentations
+# Expert Lighting: Comparative Analysis of Expert and LLM-Generated Presentations
 
 ## Overview
 
