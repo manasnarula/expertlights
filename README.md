@@ -16,8 +16,8 @@ Each topic within this project includes two distinct presentations:
 
 Here are the topics covered in this repository:
 
-- [Newspaper Production](.Newspaper)
-- [Path to the PGA Tour](./golf/)
+- [Newspaper Production](./Newspaper)
+- [Path to the PGA Tour](./Golf/)
 
 ## Conclusion
 
