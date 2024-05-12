@@ -17,7 +17,7 @@ Having reviewed the two presentations, "Newspaper Production" and "Newspaper Log
 - Newspaper Production: The presentation reads more like a detailed report or an insider's breakdown of the process, with complex sentences and a focus on procedural elements.
 - Newspaper Logistics: Uses bullet points and is more straightforward, which could indicate a focus on clarity and summarization, typical of presentations meant to convey quick insights or overviews.
 
-**Technical Language and Insights:**
+3. Technical Language and Insights:
 
 1. Newspaper Production utilizes more technical language and includes specific editorial and production terminologies which suggest a deeper level of expertise and familiarity with the subject matter.
 2. Newspaper Logistics, while informative, is less technical and more generalized in its approach, making it accessible but potentially less expert-focused.

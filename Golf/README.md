@@ -1,4 +1,4 @@
-# Golf 1/n/nThis folder contains presentaions on Golf Career Trajectories.
+# Golf: This folder contains presentations on the Path to the PGA Tour.
 
 
 ## Presentations
